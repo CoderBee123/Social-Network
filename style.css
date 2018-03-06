@@ -1,0 +1,14 @@
+* {
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial, Helvetica, Sans-serif;
+	font-size: 12px;
+}
+.headerMenu
+	background-color: #00B9ED
+	height: 38px;
+	border-bottom: 0px;
+	padding-left: auto;
+	padding-right: auto;
+	width: 100%;
+}
