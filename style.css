@@ -4,11 +4,25 @@
 	font-family: Arial, Helvetica, Sans-serif;
 	font-size: 12px;
 }
-.headerMenu
-	background-color: #00B9ED
+.headerMenu {
+	background-color: #00B9ED;
 	height: 38px;
 	border-bottom: 0px;
 	padding-left: auto;
 	padding-right: auto;
 	width: 100%;
+}
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 100px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+.logo {
+	width: 125 px;	
+}
+.logo img {
+	width: 150px;
+	height: 38px;
 }
